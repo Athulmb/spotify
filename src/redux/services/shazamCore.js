@@ -30,3 +30,21 @@ export const {
   useGetSongDetailsQuery,
   useGetSongRelatedQuery,
 } = shazamCoreApi;
+
+
+
+
+
+
+// const options = {
+//   method: 'GET',
+//   headers: {
+//     'x-rapidapi-key': '601b79c8dcmshd3522497899b9eap1eb475jsn2842aab0c0c2',
+//     'x-rapidapi-hos': 'shazam-core.p.rapidapi.com\''
+//   }
+// };
+
+// fetch('https://echo.paw.cloud/', options)
+//   .then(response => response.json())
+//   .then(response => console.log(response))
+//   .catch(err => console.error(err));
