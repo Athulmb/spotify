@@ -1,3 +1,3 @@
 # Build and launch your own cutting-edge music streaming app inspired by Spotify 2.0 using React 18, Tailwind CSS, Shazam API, and Redux!"
-![Spotify Clone](https://i.ibb.co/mFh2kGZ/Thumbnail-2.png)
+![Spotify Clone](https://www.bing.com/images/search?view=detailV2&ccid=QmUkCzwS&id=7080EF4C6899E46B6E5680317A8EA773A2AAF841&thid=OIP.QmUkCzwSxEUKMR0z1qb0iwHaEK&mediaurl=https%3a%2f%2fwallpaperbat.com%2fimg%2f379633-spotify-wallpaper.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4265240b3c12c4450a311d33d6a6f48b%3frik%3dQfiqonOnjnoxgA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=spotyfi+web+images&simid=608010161508909062&FORM=IRPRST&ck=50600104B9AE14B5AEED634F55E4BF55&selectedIndex=7&itb=0)
 # shazam api
